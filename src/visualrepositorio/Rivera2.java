@@ -10,4 +10,5 @@ package visualrepositorio;
  */
 public class Rivera2 {
     //HOLA
+    //hola 2
 }
